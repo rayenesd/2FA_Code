@@ -15,5 +15,5 @@ A simple Python script that generates a One-Time Password (OTP) and sends it via
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/email-otp-python.git
-cd email-otp-python
+git clone https://github.com/rayenesd/2FA_Code.git
+cd 2FA_Code
